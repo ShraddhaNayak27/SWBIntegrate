@@ -1,0 +1,3 @@
+﻿<Properties>
+  <WatchEntry0 value="Browser(&quot;Browser_SWBLogin&quot;).Page(&quot;Page_ManageRFxAndNegotiate&quot;).Frame(&quot;Frame_ManageRFxAndNegotiate&quot;).WebTable(&quot;Table_SearchResults&quot;).GetRowWithCellText(&quot;00/SBA226040/0060&quot;,4,2)" />
+</Properties>
